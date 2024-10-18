@@ -1,4 +1,4 @@
-# Análisis de Reglas de Asociación en Datos de Supermercado utilizando el Algoritmo Apriori Machine learning 
+# Análisis de Reglas de Asociación en Datos de Supermercado utilizando el Algoritmo Apriori 
 
 ![Logo del Proyecto](assets/logo.png)
 
