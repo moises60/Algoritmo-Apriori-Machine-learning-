@@ -160,7 +160,6 @@ El gráfico muestra las 12 reglas de asociación más importantes ordenadas por 
 - **Facilidad de Compra:** Facilitar la compra de productos relacionados agrupándolos en la tienda o mediante la creación de listas de compras sugeridas.
 - **Personalización:** Ofrecer recomendaciones personalizadas basadas en el historial de compras de los clientes, utilizando estas reglas de asociación como base.
 
-## Licencia
 
 # Licencia: MIT License
 Parte del código tomado de: https://github.com/joanby/machinelearning-az/tree/master/original/Part%205%20-%20Association%20Rule%20Learning/Section%2028%20-%20Apriori/Apriori_Python 
